@@ -40,7 +40,7 @@ Importowanie danych z plików 11
 Wykresy w pandas 12
 
 **Warm up**
-
+[Zobacz](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
 
 ```
 ● Pomysł na sposób wizualizacji jest równie ważny
