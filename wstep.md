@@ -40,7 +40,7 @@ Importowanie danych z plików 11
 Wykresy w pandas 12
 
 **Warm up**
-
+[Duck Duck Go](https://duckduckgo.com)
 
 ```
 ● Pomysł na sposób wizualizacji jest równie ważny
