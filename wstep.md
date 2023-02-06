@@ -12,9 +12,7 @@
 
 ## Link do pliku z pytaniami od uczestników kursu:
 
-## - https://docs.google.com/document/d/1CY5NasdJpVfGIBQ5MqlGU
-
-## JiEXMQrYAdxpX7SbBCE208/edit?usp=sharing
+## - https://docs.google.com/document/d/1CY5NasdJpVfGIBQ5MqlGUJiEXMQrYAdxpX7SbBCE208/edit?usp=sharing
 
 **Tworzenie środowiska 1**
 
@@ -46,7 +44,7 @@ Wykresy w pandas 12
 
 ```
 ● Pomysł na sposób wizualizacji jest równie ważny
-https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen
+##https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen
 ```
 ```
 ● Kontekst w wizualizacji danych jest ważny
