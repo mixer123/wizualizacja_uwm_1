@@ -44,7 +44,7 @@ Wykresy w pandas 12
 
 ```
 ● Pomysł na sposób wizualizacji jest równie ważny
-[Link https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+## - https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen
 ```
 ```
 ● Kontekst w wizualizacji danych jest ważny
