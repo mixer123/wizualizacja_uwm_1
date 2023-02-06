@@ -211,7 +211,7 @@ pipenv install --dev pylint
 
 Zadania oraz kod dostępny jest na
 
-### https://github.com/ksopyla/numpy-pandas-tutorial
+### [https://github.com/ksopyla/numpy-pandas-tutorial](https://github.com/mixer123/wizualizacja_uwm_1)
 
 
 Całość ma formę plików z kodem python, wraz z interaktywnymi komórkami na
