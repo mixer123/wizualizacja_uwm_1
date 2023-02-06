@@ -40,17 +40,16 @@ Importowanie danych z plików 11
 Wykresy w pandas 12
 
 **Warm up**
-[Zobacz](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+
 
 ```
-● Pomysł na sposób wizualizacji jest równie ważny
-[Zobacz](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+**Pomysł na sposób wizualizacji jest równie ważny**
+
 ## - https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen
 ```
 ```
 ● Kontekst w wizualizacji danych jest ważny
-https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?lang
-uage=pl
+https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=pl
 ```
 ```
 ● Wydatki domowe na przestrzeni lat
@@ -283,6 +282,7 @@ Skrótnpjest przyjętym standardem.
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 
 **“1.Numpy/1.vectors_arrays.py”**
+https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/1.vectors_arrays.py
 
 ##### 2. Dostęp do elementów macierzy
 
@@ -299,6 +299,7 @@ elementów macierzy, w biblioteka wspiera:
 
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 **”1.Numpy/2.matrix_element_access.py”**
+https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/2.matrix_element_access.py
 
 ##### 3. Operacje na macierzach
 
@@ -321,6 +322,7 @@ Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 
 
 **1.Numpy/3.matrix_math.py”**
+https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/3.matrix_math.py
 
 ##### 4. Manipulacja macierzami
 
@@ -339,6 +341,7 @@ W szczególności zapoznamy się z:
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 
 Plik“1.Numpy/4.matrix_manipulation.py”
+https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/4.matrix_manipulation.py
 
 ##### 5. Rozgłaszanie w numpy (broadcasting)
 
@@ -355,6 +358,7 @@ Odpowiemy sobie na pytania co się stanie gdy:
 
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 “1.Numpy/5.matrix_vector_broadcasting.py”
+https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/5.matrix_vector_broadcasting.py
 
 ##### Zadania do samodzielnego wykonania
 
