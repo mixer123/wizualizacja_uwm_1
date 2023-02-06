@@ -1,8 +1,5 @@
 # Wizualizacja danych w Python
 
-## Skrót linku do tego pliku z materiałami:
-
-## - http://bit.ly/2BdPtIK
 
 ## Linki do repozytoriów z kodem:
 
@@ -10,9 +7,6 @@
 
 ## - https://github.com/ksopyla/Matplotlib_examples
 
-## Link do pliku z pytaniami od uczestników kursu:
-
-## - https://docs.google.com/document/d/1CY5NasdJpVfGIBQ5MqlGUJiEXMQrYAdxpX7SbBCE208/edit?usp=sharing
 
 **Tworzenie środowiska 1**
 
