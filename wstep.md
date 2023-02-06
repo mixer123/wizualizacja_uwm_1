@@ -282,6 +282,7 @@ Skrótnpjest przyjętym standardem.
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 
 **“1.Numpy/1.vectors_arrays.py”**
+
 https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/1.vectors_arrays.py
 
 ##### 2. Dostęp do elementów macierzy
@@ -316,12 +317,14 @@ Numpy pozwala na intuicyjne:
 - Obliczanie wartości funkcji dla całych tablic: sin, cos, exp, power, sqrt itp.
 
 z wykorzystaniem operatorów oraz funkcji.
-Lista funkcji w numpyhttps://numpy.org/doc/stable/reference/routines.math.html
+Lista funkcji w numpy
+https://numpy.org/doc/stable/reference/routines.math.html
 
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 
 
 **1.Numpy/3.matrix_math.py”**
+
 https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/3.matrix_math.py
 
 ##### 4. Manipulacja macierzami
@@ -340,7 +343,8 @@ W szczególności zapoznamy się z:
 
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
 
-Plik“1.Numpy/4.matrix_manipulation.py”
+**Plik 1.Numpy/4.matrix_manipulation.py**
+
 https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/4.matrix_manipulation.py
 
 ##### 5. Rozgłaszanie w numpy (broadcasting)
@@ -357,7 +361,8 @@ Odpowiemy sobie na pytania co się stanie gdy:
 - Kiedy możemy wykonać operację na dwóch macierzach o różnych wymiarach?
 
 Proszę otworzyć plik i prześledzić poszczególne przykłady z pliku:
-“1.Numpy/5.matrix_vector_broadcasting.py”
+**1.Numpy/5.matrix_vector_broadcasting.py**
+
 https://github.com/mixer123/wizualizacja_uwm_1/blob/master/1.Numpy/5.matrix_vector_broadcasting.py
 
 ##### Zadania do samodzielnego wykonania
